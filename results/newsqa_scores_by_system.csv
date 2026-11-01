@@ -1,0 +1,7 @@
+rater,source,fluency,clarity,conciseness,relevance,consistency,answerability,answer_consistency
+human,T5-base,3.0,2.8,3.0,3.0,2.4,2.2,1.8
+human,T5-large,3.0,3.0,3.0,3.0,3.0,2.8,2.8
+human,reference,2.6,2.8,2.8,3.0,3.0,2.8,2.6
+llm_judge,T5-base,2.93,2.8,3.0,3.0,2.27,2.53,2.4
+llm_judge,T5-large,3.0,2.93,3.0,3.0,3.0,3.0,2.73
+llm_judge,reference,2.4,2.47,2.93,2.93,2.93,2.6,2.6

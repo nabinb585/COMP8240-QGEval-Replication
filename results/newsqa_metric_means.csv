@@ -1,0 +1,7 @@
+data,system,BLEU-4,ROUGE-L,METEOR,BERTScore
+SQuAD (QGEval),T5-base,0.176,0.493,0.432,0.924
+SQuAD (QGEval),T5-large,0.181,0.515,0.445,0.929
+HotpotQA (QGEval),T5-base,0.16,0.441,0.425,0.903
+HotpotQA (QGEval),T5-large,0.173,0.466,0.448,0.907
+NewsQA,T5-base,0.099,0.374,0.343,0.914
+NewsQA,T5-large,0.09,0.361,0.32,0.913

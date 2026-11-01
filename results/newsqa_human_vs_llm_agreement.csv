@@ -1,0 +1,8 @@
+dimension,exact_agreement_pct,within_1_point_pct,spearman
+fluency,93.3,100.0,0.784
+clarity,66.7,100.0,0.139
+conciseness,93.3,100.0,
+relevance,100.0,100.0,
+consistency,80.0,100.0,0.869
+answerability,86.7,100.0,0.756
+answer_consistency,80.0,100.0,0.745

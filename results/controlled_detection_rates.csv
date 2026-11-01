@@ -1,0 +1,9 @@
+target_dimension,BLEU-4,ROUGE-L,METEOR,BERTScore
+fluency,80.0,60.0,80.0,100
+clarity,80.0,80.0,80.0,80
+conciseness,100.0,100.0,100.0,100
+relevance,100.0,80.0,100.0,80
+consistency,60.0,60.0,60.0,80
+answerability,80.0,80.0,100.0,80
+answer_consistency,60.0,60.0,60.0,60
+ALL,80.0,74.0,83.0,83
