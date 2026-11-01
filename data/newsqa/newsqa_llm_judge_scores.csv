@@ -1,0 +1,46 @@
+item,fluency,clarity,conciseness,relevance,consistency,answerability,answer_consistency,rationale
+A01,3,3,3,3,3,3,3,"Grammatical, clear; passage names the judge who said the quote."
+A02,3,3,3,3,3,3,2,Fine question; given answer adds the mother and misses La Toya.
+A03,2,3,3,3,3,3,2,No capital or question mark; given answer omits La Toya and Randy.
+A04,3,3,3,3,3,3,3,Directly answered by the passage.
+A05,3,2,3,3,3,3,3,'Had a divorce' is vague; passage describes a divorce fight in progress.
+A06,2,3,3,3,3,3,3,Lowercase start; otherwise fine.
+A07,3,3,3,3,3,3,3,Correct and answerable; answer span has a stray quote mark.
+A08,3,2,3,3,1,2,2,Nonsensical premise: President Reagan was the husband; asks for his husband.
+A09,2,3,3,3,3,3,3,"Typo 'palce', lowercase, no question mark."
+A10,3,3,3,3,1,1,1,Misattributes Warner's remark about Bush to McCain; premise false.
+A11,3,3,3,3,2,3,3,"Concerts were postponed, so 'take place' is slightly inconsistent."
+A12,3,3,3,3,2,3,2,"Testimony was by Randy Phillips, not Murray; answer incomplete."
+A13,3,3,3,3,3,3,3,Directly answered by the passage.
+A14,3,3,3,3,3,3,3,Directly answered by the passage.
+A15,2,2,3,3,3,3,3,Typo 'ther'; 'life-size models' lacks context.
+A16,3,2,3,3,3,3,2,Awkward phrasing; answer 'Ronald' is only part of the centre's name.
+A17,3,3,3,3,2,3,3,Killings were in the 1990s; the conviction was recent.
+A18,3,3,3,3,3,3,3,Consistent with 'one of three life-size models'.
+A19,3,3,3,3,1,1,1,The All Blacks are New Zealand; France lost to New Zealand.
+A20,3,3,3,3,3,3,3,Directly answered by the passage.
+A21,3,3,3,3,3,3,3,"Matches 'there could be 100,000 snakes'."
+A22,3,3,3,3,3,3,3,Directly answered by the passage.
+A23,3,3,3,3,3,3,3,Correct; answer span has a trailing comma.
+A24,3,3,3,3,3,3,2,"Gates set up the foundation; answer is the foundation's name, not the person."
+A25,3,3,3,3,3,3,3,Directly answered by the passage.
+A26,3,1,3,3,3,2,2,'They' is undefined; meeting location only implied.
+A27,3,3,3,3,3,3,3,Informal word order but clear and answerable.
+A28,3,3,3,3,3,2,3,Location only implied by 'hosts New Zealand'.
+A29,3,2,3,3,2,2,1,"Linda said this, not 'he'; answer names both Hogans."
+A30,3,3,3,3,3,3,2,Answer lacks the word 'Foundation'.
+A31,3,3,3,3,3,3,3,Directly answered by the passage.
+A32,2,2,3,3,3,3,3,Awkward 'How is pre-marital sex'.
+A33,3,3,3,3,2,2,3,Passage says the foundation donates; 'couple sends' is an inference.
+A34,3,3,3,3,3,3,3,Directly answered by the photo caption.
+A35,3,3,3,3,3,3,2,Yes/no question; answer 'is illegal' is not a yes/no answer.
+A36,3,3,3,3,2,2,3,"Passage says 'could be', 'no one knows for sure'."
+A37,3,3,3,3,3,3,3,Directly answered by the passage.
+A38,3,3,3,3,3,3,2,Yes/no question; answer 'is illegal' is not a yes/no answer.
+A39,3,3,3,3,3,3,3,Directly answered by the passage.
+A40,2,3,3,3,3,3,3,"Lowercase, no question mark."
+A41,2,1,3,3,3,2,3,Very vague; lowercase.
+A42,3,3,3,3,3,3,3,Directly answered by the passage.
+A43,2,3,3,3,3,3,1,Lowercase name; answer 'Ronald' does not answer 'where'.
+A44,3,3,3,3,3,3,3,Correct; answer span has a trailing comma.
+A45,1,1,2,2,3,1,2,Ungrammatical and unclear: 'how many' of what is not stated.
